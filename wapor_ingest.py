@@ -82,10 +82,10 @@ def download_data(cubecode, output_folder_name, coverage=False, bounding_box = [
 
 
 if __name__ == '__main__':
-    # # # Lists all available datasets
+    # # Lists all available datasets
     # print(list_cubes())
 
-    # # # Downloading individual datasets
+    # # Downloading individual datasets
     # Output folder absolute path
     outfolder = r'D:\output_Wapor_folder\test_folder'
 
